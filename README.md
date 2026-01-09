@@ -1,7 +1,10 @@
 # Topological Data Analysis
 
 ## Contexto
-Este proyecto corresponde a un trabajo académico universitario en el que se aplican técnicas de análisis topológico de datos (TDA).
+Este proyecto corresponde a un trabajo académico universitario en el que se aplican
+técnicas de análisis topológico de datos (TDA), realizado en el marco de la materia
+**Topología Aplicada y Análisis Tipológico de Datos**, durante el
+**Segundo Cuatrimestre de 2025**.
 
 ## Objetivo
 - Introducir el uso de herramientas topológicas para el análisis de datos.
